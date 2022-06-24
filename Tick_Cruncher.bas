@@ -158,11 +158,11 @@ Sub Main()
                     Sheets(wksht).Cells(great_vol_row, great_val_col).Value = great_vol_val
                 End If
                 
-                ' highlight positive and negative percent change
-                If summ_percent_delt < 0 Then
-                    Sheets(wksht).Cells(summ_row, summ_percent_delt_col).Interior.ColorIndex = color_idx_red
-                ElseIf summ_percent_delt > 0 Then
-                    Sheets(wksht).Cells(summ_row, summ_percent_delt_col).Interior.ColorIndex = color_idx_green
+                ' highlight positive and negative yearly change
+                If summ_year_delt < 0 Then
+                    Sheets(wksht).Cells(summ_row, summ_year_delt_col).Interior.ColorIndex = color_idx_red
+                ElseIf summ_year_delt > 0 Then
+                    Sheets(wksht).Cells(summ_row, summ_year_delt_col).Interior.ColorIndex = color_idx_green
                 End If
                 
             End If
