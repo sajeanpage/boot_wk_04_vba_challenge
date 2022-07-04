@@ -1,4 +1,4 @@
-# Python Challenge
+# VBA Challenge
 
 - In this Challenge, I was tasked with creating a VB script that loops through all the stocks for one year and outputs the following information:
   - The ticker symbol
