@@ -8,6 +8,6 @@
     
 ![VBA Challenge](vba_challenge.gif)
 
-The result: [Multiple_year_stock_data](Multiple_year_stock_data.xlsm)
-
-
+The result: 
+  - [Multiple_year_stock_data](Multiple_year_stock_data.xlsm)
+  - [Tick_Cruncher.bas](Tick_Cruncher.bas)
