@@ -5,3 +5,4 @@ This repository contains my submissions for Module 2, VBA challenge.
 Thanks for your time and consideration.
 
 -Sarje
+![VBA Challenge](vba_challenge.gif)
