@@ -1,8 +1,12 @@
-# boot_wk_04_vba_challenge
-Bootcamp week 4
+Create a script that loops through all the stocks for one year and outputs the following information:
 
-This repository contains my submissions for Module 2, VBA challenge.
-Thanks for your time and consideration.
+The ticker symbol
 
--Sarje
+Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+
+The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+
+The total stock volume of the stock.
+
+
 ![VBA Challenge](vba_challenge.gif)
